@@ -9,6 +9,7 @@ Raspberry Pi Pico is a low-cost, high-performance microcontroller board with fle
 
 |  MCU Number | URL Link | Description  | Toolchain |
 | -------------- | -------- | ----------- | ----------- |
+| Rp2040 RPI-PICO | [link](https://github.com/gavinlyonsrepo/TM1638plus_PICO) | TM1638 LED module library  | SDK C++ | 
 |  |  |  | | 
 |  |  |  | | 
-
+|  |  |  | | 
