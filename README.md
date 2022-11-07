@@ -14,6 +14,7 @@ Raspberry Pi Pico is a low-cost, high-performance microcontroller board with fle
 | Rp2040 RPI-PICO | [link](https://github.com/gavinlyonsrepo/PushButtonLib_PICO ) | Basic Push button library | SDK C++ | 
 | Rp2040 RPI-PICO | [link](https://github.com/gavinlyonsrepo/LM75A_PICO) | LM75A sensor library | SDK C++ | 
 | Rp2040 RPI-PICO | [link](https://github.com/gavinlyonsrepo/ER_OLEDM1_CH1115_PICO) |  OLED SPI ERM-1 CH1115 Library | SDK C++ | 
+| Rp2040 RPI-PICO | [link](https://github.com/gavinlyonsrepo/ST7735_TFT_PICO) |  LCD TFT SPI ST7735  Library | SDK C++ | 
 | ---  | ---  | ---  | --- |
 | ---  | ---  | ---  | --- |
 | ---  | ---  | ---  | --- |
