@@ -8,6 +8,9 @@ github account.
 
 Raspberry Pi Pico is a low-cost, high-performance microcontroller board with flexible digital interfaces. It incorporates Raspberry Pi's own RP2040 microcontroller chip, with a dual-core Arm Cortex M0+ processor running up to 133 MHz, embedded 264KB of SRAM, and 2MB of onboard Flash memory, as well as 26 x multi-function GPIO pins.
 
+
+Libraries
+-------------------
 | # |  MCU  | Link | Description  | Toolchain |
 | -------------- | -------------- | -------- | ----------- | ----------- |
 |1 |Rp2040 RPI-PICO|[link](https://github.com/gavinlyonsrepo/TM1638plus_PICO)| TM1638 LED module display library | SDK C++|
@@ -19,6 +22,7 @@ Raspberry Pi Pico is a low-cost, high-performance microcontroller board with fle
 |7 |Rp2040 RPI-PICO|[link](https://github.com/gavinlyonsrepo/AHTXX_PICO)| AHT10 sensor library | SDK C++|
 |8 |Rp2040 RPI-PICO|[link](https://github.com/gavinlyonsrepo/PushButtonLib_PICO)| Basic push button library | SDK C++|
 |9 |Rp2040 RPI-PICO|[link](https://github.com/gavinlyonsrepo/TEA5767_PICO)| TEA5767 radio module library | SDK C++|
-|10 |Rp2040 RPI-PICO|[link](https://github.com/gavinlyonsrepo/FM_Radio_PICO) | FM Radio Project | SDK C++|
+|10|Rp2040 RPI-PICO|[link](https://github.com/gavinlyonsrepo/ADS1x15_PICO)| ADC ADS1x15 library | SDK C++|
+|11|Rp2040 RPI-PICO|[link](https://github.com/gavinlyonsrepo/FM_Radio_PICO) | FM Radio Project | SDK C++|
 | ---  | ---  | ---  | ---  | --- |
 | ---  | ---  | ---  | ---  | --- |
