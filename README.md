@@ -23,6 +23,7 @@ Libraries
 |8 |Rp2040 RPI-PICO|[link](https://github.com/gavinlyonsrepo/PushButtonLib_PICO)| Basic push button library | SDK C++|
 |9 |Rp2040 RPI-PICO|[link](https://github.com/gavinlyonsrepo/TEA5767_PICO)| TEA5767 radio module library | SDK C++|
 |10|Rp2040 RPI-PICO|[link](https://github.com/gavinlyonsrepo/ADS1x15_PICO)| ADC ADS1x15 library | SDK C++|
-|11|Rp2040 RPI-PICO|[link](https://github.com/gavinlyonsrepo/FM_Radio_PICO) | FM Radio Project | SDK C++|
+|11|Rp2040 RPI-PICO|[link](https://github.com/gavinlyonsrepo/MCP4725PICO)| DAC  MCP4725 library | SDK C++|
+|12|Rp2040 RPI-PICO|[link](https://github.com/gavinlyonsrepo/FM_Radio_PICO) | FM Radio Project | SDK C++|
 | ---  | ---  | ---  | ---  | --- |
 | ---  | ---  | ---  | ---  | --- |
