@@ -34,5 +34,6 @@ Libraries
 |8|Rp2040 RPI-PICO SDK C++|[link](https://github.com/gavinlyonsrepo/HD44780_LCD_PCF8574_PICO) | LCD HD44780 I2C display  |
 |9 |Rp2040 RPI-PICO SDK C++|[link](https://github.com/gavinlyonsrepo/ERM19264_UC1609_PICO)|  LCD ERM19264 UC1609 display  |
 |10 |Rp2040 RPI-PICO SDK C++|[link](https://github.com/gavinlyonsrepo/ST7735_TFT_PICO)| TFT LCD ST7735 display  |
+|11 |Rp2040 RPI-PICO SDK C++|[link](https://github.com/gavinlyonsrepo/ST7735_TFT_PICO)| OLED SSD1306 I2C display  |
 | ---  | ---  | ---  | ---  |
 
