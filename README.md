@@ -3,37 +3,38 @@
 # Raspberry Pi Pico project Index
 
 An index of projects and libraries for Raspberry Pi Pico's stored in this
-github account. The Raspberry Pi Pico is a microcontroller board with flexible digital interfaces. It incorporates Raspberry Pi's own RP2040 microcontroller chip, with a dual-core Arm Cortex M0+ processor running up to 133 MHz, embedded 264KB of SRAM, and 2MB of onboard Flash memory, as well as 26 x multi-function GPIO pins.
+github account. The Raspberry Pi Pico is a microcontroller board with flexible digital interfaces. 
+It incorporates Raspberry Pi's own RP2040 microcontroller chip, with a dual-core 
+Arm Cortex M0+ processor running up to 133 MHz, embedded 264KB of SRAM, and 2MB of onboard 
+Flash memory, as well as 26 x multi-function GPIO pins.
 
-Table of contents
----------------------------
+ToolChain used is Rp2040 RPI-PICO SDK C++.
+
+## Table of contents
 
   * [Projects](#projects)
   * [Libraries](#libraries)
   
-Projects
-------------------
+## Projects
 
-| # |  ToolChain  | Link | Description  | 
-| -------------- | -------------- | -------- | ----------- | 
-|1 |Rp2040 RPI-PICO SDK C++|[link](https://github.com/gavinlyonsrepo/FM_Radio_PICO) | FM Radio Project |
-| ---  | ---  | ---  | ---  |
+| # |  Description | Link  | 
+| -------------- | -------------- | -------- | 
+|1 |  FM Radio Project | [link](https://github.com/gavinlyonsrepo/FM_Radio_PICO) | 
+| ---  | ---  | ---  | 
 
-Libraries
--------------------
+## Libraries
 
-| # |  ToolChain  | Link | Description  | 
-| -------------- | -------------- | -------- | ----------- | 
-|1 |Rp2040 RPI-PICO SDK C++|[link](https://github.com/gavinlyonsrepo/MCP4725_PICO)| DAC  MCP4725  |
-|2 |Rp2040 RPI-PICO SDK C++|[link](https://github.com/gavinlyonsrepo/ADS1x15_PICO)| ADC ADS1x15  |
-|3 |Rp2040 RPI-PICO SDK C++|[link](https://github.com/gavinlyonsrepo/LM75A_PICO)| LM75A sensor  |
-|4 |Rp2040 RPI-PICO SDK C++|[link](https://github.com/gavinlyonsrepo/AHTXX_PICO)| AHT10 sensor  |
-|5 |Rp2040 RPI-PICO SDK C++|[link](https://github.com/gavinlyonsrepo/TEA5767_PICO)| TEA5767 radio module  |
-|6 |Rp2040 RPI-PICO SDK C++|[link](https://github.com/gavinlyonsrepo/TM1638plus_PICO)| TM1638 LED module display  |
-|7 |Rp2040 RPI-PICO SDK C++|[link](https://github.com/gavinlyonsrepo/ER_OLEDM1_CH1115_PICO)|  OLED ERM-1 CH1115 display  |
-|8|Rp2040 RPI-PICO SDK C++|[link](https://github.com/gavinlyonsrepo/HD44780_LCD_PCF8574_PICO) | LCD HD44780 I2C display  |
-|9 |Rp2040 RPI-PICO SDK C++|[link](https://github.com/gavinlyonsrepo/ERM19264_UC1609_PICO)|  LCD ERM19264 UC1609 display  |
-|10 |Rp2040 RPI-PICO SDK C++|[link](https://github.com/gavinlyonsrepo/ST7735_TFT_PICO)| TFT LCD ST7735 display  |
-|11 |Rp2040 RPI-PICO SDK C++|[link](https://github.com/gavinlyonsrepo/SSD1306_OLED_PICO)| OLED SSD1306 I2C display  |
+| # |  Name  | Description  | Link |
+| --------------  | -------- | ----------- |  ----------- | 
+|1 | MCP4725| DAC | [link](https://github.com/gavinlyonsrepo/MCP4725_PICO)| 
+|2 | ADS1x15  | ADC | [link](https://github.com/gavinlyonsrepo/ADS1x15_PICO)|
+|3 |LM75A |Sensor | [link](https://github.com/gavinlyonsrepo/LM75A_PICO)|
+|4 |AHT10 | Sensor | [link](https://github.com/gavinlyonsrepo/AHTXX_PICO)|
+|5 |TEA5767 | Radio module| [link](https://github.com/gavinlyonsrepo/TEA5767_PICO)| 
+|6 |TM1638 | LED module display | [link](https://github.com/gavinlyonsrepo/TM1638plus_PICO)|
+|7 |HD44780 | Character LCD | [link](https://github.com/gavinlyonsrepo/HD44780_LCD_PCF8574_PICO) | 
+|8 |ERM19264 UC1609 |1-bit color graphic LCD| [link](https://github.com/gavinlyonsrepo/ERM19264_UC1609_PICO)|
+|9 | SSD1306 |1-bit color graphic  OLED display | [link](https://github.com/gavinlyonsrepo/SSD1306_OLED_PICO)|
+|10|ST7735 |16-bit color graphic TFT LCD | [link](https://github.com/gavinlyonsrepo/ST7735_TFT_PICO)| 
 | ---  | ---  | ---  | ---  |
 
