@@ -36,5 +36,6 @@ ToolChain used is Rp2040 RPI-PICO SDK C++.
 |8 |ERM19264 UC1609 |1-bit color graphic LCD| [link](https://github.com/gavinlyonsrepo/ERM19264_UC1609_PICO)|
 |9 | SSD1306 |1-bit color graphic  OLED display | [link](https://github.com/gavinlyonsrepo/SSD1306_OLED_PICO)|
 |10|ST7735 |16-bit color graphic TFT LCD | [link](https://github.com/gavinlyonsrepo/ST7735_TFT_PICO)| 
+|11|ST7789 |16-bit color graphic TFT LCD | [link](https://github.com/gavinlyonsrepo/ST7789_TFT_PICO)| 
 | ---  | ---  | ---  | ---  |
 
