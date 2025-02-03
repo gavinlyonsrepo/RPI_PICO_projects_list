@@ -32,10 +32,11 @@ ToolChain used is Rp2040 RPI-PICO SDK C++.
 |4 |AHT10 | Sensor | [link](https://github.com/gavinlyonsrepo/AHTXX_PICO)|
 |5 |TEA5767 | Radio module| [link](https://github.com/gavinlyonsrepo/TEA5767_PICO)| 
 |6 |TM1638 | LED module display | [link](https://github.com/gavinlyonsrepo/TM1638plus_PICO)|
-|7 |HD44780 | Character LCD | [link](https://github.com/gavinlyonsrepo/HD44780_LCD_PCF8574_PICO) | 
-|8 |ERM19264 UC1609 |1-bit color graphic LCD| [link](https://github.com/gavinlyonsrepo/ERM19264_UC1609_PICO)|
-|9 | SSD1306 |1-bit color graphic  OLED display | [link](https://github.com/gavinlyonsrepo/SSD1306_OLED_PICO)|
-|10|ST7735 |16-bit color graphic TFT LCD | [link](https://github.com/gavinlyonsrepo/ST7735_TFT_PICO)| 
-|11|ST7789 |16-bit color graphic TFT LCD | [link](https://github.com/gavinlyonsrepo/ST7789_TFT_PICO)| 
+|7 |TM1637 | LED module display | [link](https://github.com/gavinlyonsrepo/TM1637_PICO)|
+|8 |HD44780 | Character LCD | [link](https://github.com/gavinlyonsrepo/HD44780_LCD_PCF8574_PICO) | 
+|9 |ERM19264 UC1609 |1-bit color graphic LCD| [link](https://github.com/gavinlyonsrepo/ERM19264_UC1609_PICO)|
+|10 | SSD1306 |1-bit color graphic  OLED display | [link](https://github.com/gavinlyonsrepo/SSD1306_OLED_PICO)|
+|11|ST7735 |16-bit color graphic TFT LCD | [link](https://github.com/gavinlyonsrepo/ST7735_TFT_PICO)| 
+|12|ST7789 |16-bit color graphic TFT LCD | [link](https://github.com/gavinlyonsrepo/ST7789_TFT_PICO)| 
 | ---  | ---  | ---  | ---  |
 
