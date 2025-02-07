@@ -24,7 +24,7 @@ ToolChain used is Rp2040 RPI-PICO SDK C++.
 
 ## Libraries
 
-| # |  Name  | Description  | Link |
+| # |  Component  | Description  | Link |
 | --------------  | -------- | ----------- |  ----------- | 
 |1 |MCP4725|DAC | [link](https://github.com/gavinlyonsrepo/MCP4725_PICO)| 
 |2 |ADS1x15|ADC | [link](https://github.com/gavinlyonsrepo/ADS1x15_PICO)|
@@ -40,5 +40,6 @@ ToolChain used is Rp2040 RPI-PICO SDK C++.
 |12 |SSD1306|1-bit color graphic OLED | [link](https://github.com/gavinlyonsrepo/SSD1306_OLED_PICO)|
 |13|ST7735|16-bit color graphic LCD | [link](https://github.com/gavinlyonsrepo/ST7735_TFT_PICO)| 
 |14|ST7789|16-bit color graphic LCD | [link](https://github.com/gavinlyonsrepo/ST7789_TFT_PICO)| 
+|15|Stepper Motor |Stepper Motor Controllers| [link](https://github.com/gavinlyonsrepo/Stepper_Motor_Control_PICO)| 
 | ---  | ---  | ---  | ---  |
 
