@@ -4,11 +4,7 @@
 
 An index of projects and libraries for Raspberry Pi Pico's stored in this
 github account. The Raspberry Pi Pico is a microcontroller board with flexible digital interfaces. 
-It incorporates Raspberry Pi's own RP2040 microcontroller chip, with a dual-core 
-Arm Cortex M0+ processor running up to 133 MHz, embedded 264KB of SRAM, and 2MB of onboard 
-Flash memory, as well as 26 x multi-function GPIO pins.
-
-ToolChain used is Rp2040 RPI-PICO SDK C++.
+ToolChain used is vs code, cmake and Rp2040 RPI-PICO SDK C++.
 
 ## Table of contents
 
