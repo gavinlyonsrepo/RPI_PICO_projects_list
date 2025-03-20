@@ -20,10 +20,9 @@ ToolChain used is vs code, cmake and Rp2040 RPI-PICO SDK C++.
 
 ## Libraries
 
-| Component  | Description  | Link |
+| Components  | Description  | Link |
 | -------- | ----------- |  ----------- |
-|ST7735|16-bit color graphic LCD | [link](https://github.com/gavinlyonsrepo/ST7735_TFT_PICO)|
-|ST7789|16-bit color graphic LCD | [link](https://github.com/gavinlyonsrepo/ST7789_TFT_PICO)|
+|ST7735 ST7789|16-bit color graphic displays | [link](https://github.com/gavinlyonsrepo/displaylib_16bit_PICO)|
 |Multiple displays|1-bit color graphic displays| [link](https://github.com/gavinlyonsrepo/displaylib_1bit_PICO)|
 |TM1638|LED module display | [link](https://github.com/gavinlyonsrepo/TM1638plus_PICO)|
 |TM1637|LED module display | [link](https://github.com/gavinlyonsrepo/TM1637_PICO)|
