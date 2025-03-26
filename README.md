@@ -8,22 +8,15 @@ ToolChain used is vs code, cmake and Rp2040 RPI-PICO SDK C++.
 
 ## Table of contents
 
-  * [Projects](#projects)
   * [Libraries](#libraries)
-
-## Projects
-
-| # |  Description | Link  |
-| -------------- | -------------- | -------- |
-|1 |  FM Radio Project | [link](https://github.com/gavinlyonsrepo/FM_Radio_PICO) |
-| ---  | ---  | ---  |
+  * [Projects](#projects)
 
 ## Libraries
-
+ 
 | Components  | Description  | Link |
 | -------- | ----------- |  ----------- |
-|ST7735 ST7789|16-bit color graphic displays | [link](https://github.com/gavinlyonsrepo/displaylib_16bit_PICO)|
-|Multiple displays|1-bit color graphic displays| [link](https://github.com/gavinlyonsrepo/displaylib_1bit_PICO)|
+|ST7735 ST7789 ILI9341 SSD1331 |16-bit color graphic displays | [link](https://github.com/gavinlyonsrepo/displaylib_16bit_PICO)|
+|UC1609 PCD8544 SSD1306 CH1115 SH110X|1-bit color graphic displays| [link](https://github.com/gavinlyonsrepo/displaylib_1bit_PICO)|
 |TM1638|LED module display | [link](https://github.com/gavinlyonsrepo/TM1638plus_PICO)|
 |TM1637|LED module display | [link](https://github.com/gavinlyonsrepo/TM1637_PICO)|
 |HD44780|Character LCD | [link](https://github.com/gavinlyonsrepo/HD44780_LCD_PCF8574_PICO) |
@@ -34,6 +27,15 @@ ToolChain used is vs code, cmake and Rp2040 RPI-PICO SDK C++.
 |AHT10|Sensor | [link](https://github.com/gavinlyonsrepo/AHTXX_PICO)|
 |TEA5767|Radio module| [link](https://github.com/gavinlyonsrepo/TEA5767_PICO)|
 |DS1307|Real time clock module | [link](https://github.com/gavinlyonsrepo/DS1307_PICO)|
-|Multiple motors drivers|Stepper Motor Controllers| [link](https://github.com/gavinlyonsrepo/Stepper_Motor_Control_PICO)|
+|ULN2003  L298N TB6612FNG MX1508 A4988 DRV8825 LV8729 A3967|Stepper Motor Controllers| [link](https://github.com/gavinlyonsrepo/Stepper_Motor_Control_PICO)|
 | -------- | ----------- |  ----------- |
+
+## Projects
+
+| # |  Description | Link  |
+| -------------- | -------------- | -------- |
+|1 |  FM Radio Project | [link](https://github.com/gavinlyonsrepo/FM_Radio_PICO) |
+| ---  | ---  | ---  |
+
+
 
