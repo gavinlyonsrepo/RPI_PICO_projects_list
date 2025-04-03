@@ -17,7 +17,7 @@ ToolChain used is vs code, cmake and Rp2040 RPI-PICO SDK C++.
 | -------- | ----------- |  ----------- |
 |ST7735 ST7789 ILI9341 SSD1331 |16-bit color graphic displays | [link](https://github.com/gavinlyonsrepo/displaylib_16bit_PICO)|
 |UC1609 PCD8544 SSD1306 CH1115 SH110X|1-bit color graphic displays| [link](https://github.com/gavinlyonsrepo/displaylib_1bit_PICO)|
-|MAX7219 TM1637 TM1638|LED segment module display | [link](https://github.com/gavinlyonsrepo/displaylib_LED_PICO)|
+|MAX7219 TM1637 TM1638 HT16K33|LED segment module display | [link](https://github.com/gavinlyonsrepo/displaylib_LED_PICO)|
 |HD44780|Character LCD | [link](https://github.com/gavinlyonsrepo/HD44780_LCD_PCF8574_PICO) |
 |ULN2003  L298N TB6612FNG MX1508 A4988 DRV8825 LV8729 A3967|Stepper Motor Controllers| [link](https://github.com/gavinlyonsrepo/Stepper_Motor_Control_PICO)|
 |MCP4725|DAC | [link](https://github.com/gavinlyonsrepo/MCP4725_PICO)|
